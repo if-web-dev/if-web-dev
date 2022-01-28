@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Isaac
 
+## I would like to make coding my job
+
 👀 I’m interested by full stack univer
 
 🔭 I’m currently working on E-Commerce Wordpress website https://kandaina-tea.fr
