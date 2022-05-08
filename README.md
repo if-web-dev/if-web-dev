@@ -4,7 +4,7 @@
 
 👀 I’m interested by full stack univers
 
-🔭 I’m currently working on E-Commerce Wordpress website https://kandaina-tea.fr
+🔭 I’m currently working on E-Commerce Wordpress website https://kandaina-tea.fr and https://openclassrooms.com/fr/
 
 🌱 I’m currently learning PHP, Js and Java from https://www.studi.com/fr
 
