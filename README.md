@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Isaac
+# 👋 Hi, I’m Ishake
 
 ## I would like to make coding my job
 
