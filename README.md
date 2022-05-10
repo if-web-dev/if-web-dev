@@ -10,7 +10,7 @@
 
 👯 I’m looking for collaborate on PHP project
 
-💻 I'm available for work : [internship or cdi/full time job.](internship or cdi/full time job.)
+💻 I'm available for work : [internship or cdi/full time job.](internship or cdi/full time job full remote)
 
 💬 Ask me about PHP
 
