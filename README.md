@@ -4,11 +4,11 @@
 
 👀 I’m interested by full stack univers
 
-🔭 I’m currently working on E-Commerce Wordpress website https://kandaina-tea.fr 
+🔭 I’m currently working on my website : www.if-web-dev.com 
 
 🌱 I’m currently learning PHP, Js and Java from https://www.studi.com/fr and https://openclassrooms.com/fr/
 
-👯 I’m looking for collaborate on PHP project
+👯 I’m looking for collaborate on PHP/Symfony project
 
 💻 I'm available for work : [internship or cdi/full time job.](internship or cdi/full time job full remote)
 
@@ -26,4 +26,4 @@
 [![PHPUnit](https://img.shields.io/badge/-phpunit-3775A9?style=for-the-badge&logo=phpunit&logoColor=white)](https://phpunit.de/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-**HTML • CSS • JavaScript • PHP • SQL • Symfony • WordPress • Elementor • Git**
+**HTML • CSS • JavaScript • PHP • SQL • Symfony • WordPress • Elementor • Git • MySql • Sass . Photoshop • Illustrator**
