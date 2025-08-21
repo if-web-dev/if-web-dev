@@ -4,8 +4,6 @@
 
 👀 I’m interested by full stack univers
 
-🔭 I’m currently working on my website : www.if-web-dev.com 
-
 🌱 I’m currently learning PHP, React and Java from https://www.studi.com/fr, https://codelynx.dev/beginreact and https://openclassrooms.com/fr/
 
 👯 I’m looking for collaborate on PHP/Symfony project
