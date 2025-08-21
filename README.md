@@ -14,8 +14,6 @@
 
 💬 Ask me about PHP
 
-📫 How to reach me i.fouhal@hotmail.com
-
 [![Frontendmentor URL](https://img.shields.io/badge/Frontend%20Mentor-89bf54?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/if-web-dev)
 [![Codewars URL](https://img.shields.io/badge/Codewars-critical?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/IfWebDev)
 [![Bootstrap URL](https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
